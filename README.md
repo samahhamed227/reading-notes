@@ -10,3 +10,11 @@
 
 *The right mindset, like the growth mindset, helps put things in perspective* 🤜
 
+Hi, my name is samah hamed ,Igraduated B.Sc. Software Engineering, Al-Balqa Applied University, 2014 -2018.Personal Information
+Date of birth: 3/6/1996
+Marital status: Single
+Language: English ( Good) , Arabic (Native)
+I understand Programing Language:
+Html, CSS, Java script ,Bootstrap
+SQL SERVER 
+ ASP.NET
