@@ -7,4 +7,4 @@
 | read01  | [markdown](https://github.com/samahhamed227/reasd1.git)     |
 | read02  | [sumrization](https://github.com/samahhamed227/Summarization.md.git)        |
 | read03  | [Growthmind](https://github.com/samahhamed227/reading-notes.git)        |
-| read04   | [Git] (https://samahhamed227.github.io/Git.md/)      |
+| read04   | [Git](https://samahhamed227.github.io/Git.md/)      |
