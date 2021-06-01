@@ -8,5 +8,5 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | topic      | link |
 | ----------- | ----------- |
 | read01  |     [Git](https://samahhamed227.github.io/Git.md/)  |
-| read02  | [markdownn](https://samahhamed227.github.io/reasd1/t)        |
+| read02  | [markdownn](https://samahhamed227.github.io/reasd1/)        |
 | read03  | [Growthmind](https://samahhamed227.github.io/growthmind1.md/)        |
