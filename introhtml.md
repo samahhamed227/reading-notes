@@ -1,6 +1,4 @@
-
 # Introduction 
-
 ## The Structure of This Book: 
 
 - In order to teach you about creating web pages,
