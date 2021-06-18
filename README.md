@@ -21,6 +21,11 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 
 | topic      | link |
 | ----------- | ----------- |
+<<<<<<< HEAD
 | read01  | [ Introductory HTML and JavaScript]()  |
 | read01 | [  ](/)  |
+=======
+| read01  | [ Introductory HTML and JavaScript](https://samahhamed227.github.io/newhtml.md/)  |
+| read01 part2 | [ JS ](https://samahhamed227.github.io/newjs.md/)  |
+>>>>>>> c8541f103acd346e0237d24ac128af5d6e91e2ff
 
