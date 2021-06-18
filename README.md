@@ -15,6 +15,7 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read06 | [ Operators and Loops](https://samahhamed227.github.io/Loops/) |
 | read07 | [Design web pages with CSs](https://samahhamed227.github.io/Designcss/) |
 | read08 | [ Programming with JavaScript](https://samahhamed227.github.io/progjs/) |
+<<<<<<< HEAD
 
 # Table of contect 102
 
@@ -22,4 +23,6 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | ----------- | ----------- |
 | read01  | [ Introductory HTML and JavaScript]()  |
 | read02 | []()  |
+=======
+>>>>>>> 6a5bda0ffa6cb13fe0db0f67912b2cc6b08bb84f
 
