@@ -17,12 +17,13 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read08 | [ Programming with JavaScript](https://samahhamed227.github.io/progjs/) |
 
 
+
 # Table of contect 201
 
 | topic      | link |
 | ----------- | ----------- |
 | read01 | [ Introductory HTML and JavaScript](https://samahhamed227.github.io/reading-notes/introhtml)| 
-| read02  | [htmlcssjs ](read02.md)  |
+| read02  | [basic of html- css-js ](read02.md)  |
 
 
 
