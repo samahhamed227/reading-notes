@@ -17,7 +17,7 @@ paragraph with an opening <p>
 tag and closing </p> tag
 
 </br>
-<h4>
+<h3>
 
  # Bold, italic, emphasis
 By enclosing words in the tags 
@@ -115,4 +115,4 @@ option if none match).
 6. All values evaluate to either truthy or falsy. 
 7. There are three types of loop: for, while, and 
 do ... while. Each repeats a set of statements.
-</h4>
+</h3>
