@@ -8,6 +8,7 @@ headings:
 <h5> h5 level5 heading
 <h6> h6 level 6heading
 
+
 # paragraph
 <p>
 To create a paragraph, surround 
@@ -15,16 +16,20 @@ the words that make up the
 paragraph with an opening <p>
 tag and closing </p> tag
 
+</br>
+<h4>
 
  # Bold, italic, emphasis
 By enclosing words in the tags 
 <b> <  b  >and </b> <   / b>  we can make 
 characters appear bold 
+</br>
 
 By enclosing words in the tags 
 < i > and </ i> we can make 
 characters appear italic.
 
+</br>
 
 The < sup> element is used 
 to contain characters that 
@@ -34,6 +39,7 @@ mathematical concepts like
 raising a number to a power such 
 as 22
 .
+</br>
 
 
 < sub>
@@ -44,6 +50,7 @@ used with foot notes or chemical
 formulas such as H2
 0.
 
+</br>
 
 The use of the <  strong>
 element indicates that its 
@@ -52,12 +59,14 @@ For example, the words
 contained in this element might 
 be said with strong emphasis.
 
+</br>
 
  - HTML elements are used to describe the structure of 
 the page (e.g. headings, subheadings, paragraphs).
 - They also provide semantic information (e.g. where 
 emphasis should be placed, the definition of any 
 acronyms used, when given text is a quotation)
+</br>
 
 1. CSS treats each HTML element as if it appears inside 
 its own box and uses rules to indicate how that 
@@ -106,3 +115,4 @@ option if none match).
 6. All values evaluate to either truthy or falsy. 
 7. There are three types of loop: for, while, and 
 do ... while. Each repeats a set of statements.
+</h4>
