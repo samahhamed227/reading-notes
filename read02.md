@@ -18,7 +18,7 @@ tag and closing </p> tag
 
 
  # Bold, italic, emphasis
-By enclosing words in the tags 
+``` By enclosing words in the tags 
 <b> <  b  >and </b> <   / b>  we can make 
 characters appear bold
 
@@ -97,8 +97,8 @@ strings (text), and Boolean values (true or false).
 1. Conditional statements allow your code to make 
 decisions about what to do next. 
 Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>) 
-are used to compare two operands. 
-#### 2. Logical operators allow you to combine more than one 
+are used to compare two operands. ```
+ 2. Logical operators allow you to combine more than one 
 set of comparison operators. 
  3. if ... else statements allow you to run one set of code 
 if a condition is true, and another if it is false. 

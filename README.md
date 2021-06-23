@@ -25,5 +25,6 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read01 | [ Introductory HTML and JavaScript](introhtml.md)| 
 | read02  | [basic of html- css-js ](read02.md)|
 | read03  | [ List & Boxes](read03.md)|
-
 | read04  | [ LHTML Links, JS Functions, and Intro to CSS Layout](read04.md)|
+| read05  | [ Images, Color, Text ](read05.md)|
+
