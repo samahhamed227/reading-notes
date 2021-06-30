@@ -31,5 +31,5 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read07  | [Object-Oriented Programming, HTML Tables ](read07.md)|
 | read08  | [CSS Layout ](read08.md)|
 | read09  | [Forms and JS Events ](read09.md)|
-
+| read10  | [Debugging](read10.md)|
 
