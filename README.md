@@ -34,6 +34,7 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read10  | [Debugging](read10.md)|
 | read11 | [ Audio, Video, Images](read11.md)|
 | read12 | [ Chart.js, Canvas](read12.md)|
+| read13 | [ Local Storage](read13.md)|
 
 
 
