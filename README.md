@@ -35,6 +35,8 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read11 | [ Audio, Video, Images](read11.md)|
 | read12 | [ Chart.js, Canvas](read12.md)|
 | read13 | [ Local Storage](read13.md)|
+| read14a +b | [  CSS Transforms, Transitions, and Animations](read14a.md)|
 
+| read14b | [  What Google Learned From Its Quest to Build the Perfect Team](read14b.md)|
 
 
