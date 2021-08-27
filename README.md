@@ -3,7 +3,7 @@
 my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied University, 2014 -2018. Date of birth: 3/6/1996 Marital status: Single
 
 
-# Table of contect 102
+# Code 102 - Intro to Software Development
 
 | topic      | link |
 | ----------- | ----------- |
@@ -18,7 +18,7 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 
 
 
-# Table of contect 201
+# Code 201 - Foundations of Software Development
 
 | topic      | link |
 | ----------- | ----------- |
@@ -40,3 +40,7 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read14b | [  What Google Learned From Its Quest to Build the Perfect Team](read14b.md)|
 
 
+# Code 301 - Intermediate Software Development
+| topic      | link |
+| ----------- | ----------- |
+| read1 | [ Startup](read1.md)| 
