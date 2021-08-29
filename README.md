@@ -45,4 +45,4 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | topic      | link |
 | ----------- | -----------|
 | read1  | [ Introduction to React and Components](read1.md)|
-| read2 | []()  |
+| read2 | [State and Props](read2corse301.md)  |
