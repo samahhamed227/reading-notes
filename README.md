@@ -46,4 +46,4 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | ----------- | -----------|
 | read1  | [ Introduction to React and Components](code301/read1.md)|
 | read2 | [State and Props](code301/read2corse301.md)  |
-| read3 | [Passing Functions as Props](code301/read2corse301.md)  |
+| read3 | [Passing Functions as Props](code301/read3corse301.md)  |
