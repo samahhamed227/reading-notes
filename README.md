@@ -41,7 +41,6 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 
 
 # Code 301 - Intermediate Software Development
-
 | topic      | link |
 | ----------- | -----------|
 | read1  | [ Introduction to React and Components](code301/read1.md)|

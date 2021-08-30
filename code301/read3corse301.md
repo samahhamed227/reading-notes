@@ -4,9 +4,11 @@
 Consider an array of objects that contains user id and name. To display it to the DOM, you need to use the map() function and return JSX from the callback function. This is the most common use case of the map() function in React.
 It's returned the result to the variable it has been assigned to.
 
+
 ## If I want to loop through an array and display each value in JSX, how do I do that in React?
 
 we can build collections of elements and include them in JSX using curly braces {}.And we loop through them by using the JavaScript map() function.Which will return an html element for each time, and we assign the resulting array of elements to the variable we have declare it.
+
 
 ## Each list item needs a unique ____.
 key wich is a special string attribute you need to include when creating lists of elements.
@@ -57,6 +59,9 @@ let employee = {
 };
 
 console.log(employee);
+
+
+
 
 
 # How to Pass Functions Between Components
