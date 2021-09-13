@@ -56,4 +56,5 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 |read09|[FUNCTIONAL PROGRAMMING](code301/read09corse301.md)|
 |read10|[In memory storage](code301/read10corse301.md)|
 |read11|[Mongo and Mongoose](code301/read11code301.md)|
-|read12|[CRUD](code301/read13code301.md)|
+|read12|[CRUD](code301/read12code301.md)|
+|read13|[ Diversity & Inclusion in the Tech Industry](code301/read13code301.md)|
