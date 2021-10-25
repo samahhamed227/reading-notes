@@ -59,4 +59,19 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 |read12|[CRUD](code301/read12code301.md)|
 |read13|[ Diversity & Inclusion in the Tech Industry](code301/read13code301.md)|
 |read14a|[ Project Ideas](code301/read14code301.md)|
-|read14b|[Authentication](code301/read14bcode301.md)|
+|read14b|[Authentication](code301/read14bcode301.md8)|
+
+
+#  Code 401 - Advanced Software Development
+
+
+| topic      | link |
+| ----------- | ----------- |
+| read01  | [prep work](code401/prepwork104.md)  |
+| read02 | []()  |
+|   read03  | []() |
+| read04 | [ ]() |
+| read05 | [ ]() |
+| read06 | [   ]() |
+| read07 | []() |
+| read08 | [ ]() |
