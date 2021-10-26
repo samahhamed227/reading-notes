@@ -67,7 +67,8 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 
 | topic      | link |
 | ----------- | ----------- |
-| read01  | [prep work](code401/prepwork104.md)  |
+| read00  | [prep work]()  |
+| read01  | []()  |
 | read02 | []()  |
 |   read03  | []() |
 | read04 | [ ]() |
@@ -75,3 +76,4 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read06 | [   ]() |
 | read07 | []() |
 | read08 | [ ]() |
+
