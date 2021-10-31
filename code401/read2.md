@@ -30,3 +30,7 @@ Web Applications Express is a minimal and flexible Node.js web application frame
 
 3- Routing
 Routing is responsible for matching incoming HTTP requests and dispatching those requests to the app’s executable endpoints. Endpoints are the app’s units of executable request-handling code. Endpoints are defined in the app and configured when the app starts. The endpoint matching process can extract values from the request’s URL and provide those values for request processing. Using endpoint information from the app, routing is also able to generate URLs that map to endpoint
+# Preview 
+* Which 3 things had you heard about previously and now have better clarity on?node.js/express /testing
+* Which 3 things are you hoping to learn more about in the upcoming lecture/demo?how can i test the  whole project /auth0 /log in log out without  another website 
+* What are you most excited about trying to implement or see how it works? how i can creat log in log out page without auth0
