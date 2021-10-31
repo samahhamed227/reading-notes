@@ -4,15 +4,11 @@
 PUT method use the request URI to supply a modified version of the requested resource which replaces the original version of the resource, where’s the PATCH method supplies a set of instructions to modify the resource.
 
 # Provide links to 3 services or tools that allow you to mock an API for development like `json-server`
-1. **Nock**:is an HTTPS library designed to replicate and mock servers and expectations in `Node.js`.
->Link:
-    - `https://github.com/nock/nock`
-2. **Beeceptor**:is a free online tool for mocking a `REST API` interaction using any HTTP request. 
->Link:
-    - `https://beeceptor.com/`
-3.  **Stoplight**: is all about the quick creation of mock servers and visualization of the `APIs` that interact with them. 
->Link:
-    - `https://stoplight.io/mocking/`
+1. Mock Server: `https://www.mock-server.com/`
+2. Postman :`https://www.postman.com/`
+
+3. Beeceptor: `https://beeceptor.com/`
+
 
 # Compare and contrast SOAP and ReST : (Links to an external site.)
 
