@@ -1,5 +1,5 @@
  
- # What’s the difference between PUT and PATCH
+ #  What’s the difference between PUT and PATCH
 ![](maxresdefault.jpg)
 PUT method use the request URI to supply a modified version of the requested resource which replaces the original version of the resource, where’s the PATCH method supplies a set of instructions to modify the resource.
 
