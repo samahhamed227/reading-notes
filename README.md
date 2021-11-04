@@ -71,8 +71,8 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read01  | [Node Ecosystem, TDD, CI/CD](code401/read1.md)  |
 | read02 | [Express](code401/read2.md)  |
 |   read03  | [Express REST API](code401/read3.md) |
-| read04 | [ ]() |
-| read05 | [ ]() |
+| read04 | [ Data Modeling ](code401/read4.md) |
+| read05 | [ Linked Lists](code401/read5.md) |
 | read06 | [   ]() |
 | read07 | []() |
 | read08 | [ ]() |
