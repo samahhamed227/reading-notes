@@ -70,10 +70,18 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read00  | [Get Ready for 401](code401/read0.md)  |
 | read01  | [Node Ecosystem, TDD, CI/CD](code401/read1.md)  |
 | read02 | [Express](code401/read2.md)  |
-|   read03  | [Express REST API](code401/read3.md) |
+| read03  | [Express REST API](code401/read3.md) |
 | read04 | [ Data Modeling ](code401/read4.md) |
 | read05 | [ Linked Lists](code401/read5.md) |
-| read06 | [   ]() |
+| read06 | [Authentication](code401/read6.md) |
 | read07 | []() |
-| read08 | [ ]() |
-
+| read08 | []() |
+| read09  | []()  |
+| read10  | []()  |
+| read11 | []()  |
+| read12  | []() |
+| read13 | []() |
+| read14 | []() |
+| read15 | []() |
+| read16 | []() |
+| read17| []() |
