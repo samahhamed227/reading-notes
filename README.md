@@ -74,7 +74,7 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read04 | [ Data Modeling ](code401/read4.md) |
 | read05 | [ Linked Lists](code401/read5.md) |
 | read06 | [Authentication](code401/read6.md) |
-| read07 | []() |
+| read07 | [Bearer Authorization](code401/read7.md) |
 | read08 | []() |
 | read09  | []()  |
 | read10  | []()  |

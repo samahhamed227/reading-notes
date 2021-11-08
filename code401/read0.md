@@ -52,3 +52,4 @@ Now that you've identified at least one root cause, you need to discuss and agre
 
 7. Monitor Your Measures
 Keep a close watch on how effectively your counter-measures eliminate or minimize the initial problem. You may need to amend them, or replace them entirely. If this happens, it's a good idea to repeat the 5 Whys process to ensure that you've identified the correct root cause.
+ 
