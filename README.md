@@ -84,4 +84,25 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read14 | [Event Driven Architecture](code401/read14.md) |
 | read15 | [Trees](code401/read15.md) |
 | read16 | [Cloud Servers](code401/read16.md) |
-| read17| []() |
+| read17| [S3 and Lambda](code401/read17.md) |
+| read18| []() |
+| read19| []() |
+| read20| []() |
+| read21| []() |
+| read22| []() |
+| read23| []() |
+| read24| []() |
+| read25| []() |
+| read26| []() |
+| read27| []() |
+| read28| []() |
+| read29| []() |
+| read30| []() |
+| read31| []() |
+| read32| []() |
+| read33| []() |
+| read34| []() |
+
+
+
+
