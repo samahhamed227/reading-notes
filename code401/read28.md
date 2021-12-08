@@ -1,34 +1,34 @@
-## **API Integration**
+# Read 28 : Component Lifecycle / useEffect()
 
-### ***How do bearer tokens work?***
+## Why do we not need more .html pages in a multi-page React app?
 
-- `Bearer Token` A security token with the property that any party in possession of the token (a `bearer`) can use the token in any way that any other party in possession of it can. Using a bearer token does not require a bearer to prove possession of cryptographic key material (proof-of-possession).
+React apps are single page app ,A React app consists of a single HTML file index.html. The views are coded in JSX format as components.
 
-### ***Describe express middleware***
+## If we wanted a component to show up on every page, where would we put it and why?
 
-- `Express middleware` are functions that execute during the lifecycle of a request to the Express server. Each middleware has access to the HTTP `request` and `response` for each route (or path) it’s attached to.
-- This `chaining` of middleware allows you to compartmentalize your code and create reusable middleware.
+- Outside the < BrowserRouter />
+- **Inside the < BrowserRouter />, outside a < Route />**
+- Inside a < Route />
 
-### ***What is a JWT?***
+Inside the < BrowserRouter/ >, outside a < Route/ >, to have it always no matter what the current route is .
 
-- `JSON Web Token (JWT)` is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA.
+## What does routing do with the components that were rendered when a new route is requested
 
--------------------------------------------------------------
+It goes to the new componetnt and remove the old one cleans up
 
+## What does props.children contain?
 
-## **Terms**
+Children is a special property of React components which contains any child elements defined within the component, e.g. the divs inside Example above. {this.props.children} includes those children in the rendered result.
 
-**role based access control**: `Role-based access control (RBAC)` restricts network access based on a person's role within an organization and has become one of the main methods for advanced access control. The roles in RBAC refer to the levels of access that employees have to the network.
+## How do useState() and this.setState() differ?
 
-**http cookies**: An HTTP cookie (web cookie, browser cookie) is a small piece of data that a server sends to the user's web browser. The browser may store it and send it back with later requests to the same server. Typically, it is used to tell if two requests came from the same browser — keeping a user logged-in, for example. It remembers stateful information for the stateless HTTP protocol.
+- The setState function is used to handle the state object in a React class component.
 
-- Cookies are mainly used for three purposes:
+- SetState is merging the previous state with the new one, it means that you dont have to pass the full state object every time you want to change some part of the state. React will update given properties and won't touch the rest. The useState's updater rewrites a previous state with a new one and it does not perform any merging. Its just replacement instead of merging.
 
-  1. Session management
-     - Logins, shopping carts, game scores, or anything else the server should remember
+## Terms
 
-   2. Personalization
-      - User preferences, themes, and other settings
-
-   3. Tracking
-       - Recording and analyzing user behavior
+| Term                            | Def                   |
+| :-------------                  |   :----------         |
+| State Hook                 |A Hook is a special function that lets you “hook into” React features. For example, useState is a Hook that lets you add React state to function components. We’ll learn other Hooks later.|
+|Mounting and Un-Mounting              |The main job of React is to figure out how to modify the DOM to match what the components want to be rendered on the screen.React does so by "mounting" (adding nodes to the DOM), "unmounting" (removing them from the DOM), and "updating" (making changes to nodes already in the DOM).|
