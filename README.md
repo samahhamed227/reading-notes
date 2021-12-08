@@ -90,8 +90,8 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | read26| [Component Based UI](code401/read26.md) |
 | read27| [useState() Hook](code401/read27.md) |
 | read28| [useEffect() Hook](code401/read28.md) |
-| read29| []() |
-| read30| []() |
+| read29| [Advanced State with Reducers](code401/read29.md) |
+| read30| [Hash Tables](code401/read30.md) |
 | read31| []() |
 | read32| []() |
 | read33| []() |
