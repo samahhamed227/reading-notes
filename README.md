@@ -100,8 +100,8 @@ my name is samah , I graduate B.Sc. Software Engineering, Al-Balqa Applied Unive
 | ----------- | ----------- |
 | read36  | [Application State with Redux](code401/read36.md)  |
 | read37  | [Redux - Combined Reducers](code401/read37.md)  |
-| read | []()  |
-| read  | []() |
+| read38  | [Redux - Asynchronous Actions](code401/read38.md) |
+| read39 | [Redux - Additional Topics](code401/read39.md)  |
 | read | [  ]() |
 | read | [ ]() |
 
